@@ -2,5 +2,5 @@
 
 Excel
 Sales Data Sample - Sales Performance Dashboard
-![Dashboard](Gallery/C:\Users\shrey\OneDrive\Pictures\Screenshots\Sales.png)
+![Dashboard](Images/Sales.png)
 
