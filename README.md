@@ -9,4 +9,4 @@ Sales Data Sample - Sales Performance Dashboard
 Python
 
 IMBD Dataset - Exploratory Data Analysis Project
-Read the complete Project Analysis [Here]( 
+Read the complete Project Analysis [Here](imdb.ipynb).
