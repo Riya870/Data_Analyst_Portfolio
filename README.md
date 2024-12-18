@@ -1,12 +1,12 @@
 # Data_Analyst_Portfolio
 
-[x] Excel
+- [x] Excel
 
 
 Sales Data Sample - Sales Performance Dashboard
 ![Dashboard](Images/Sales.png)
 
-[x]Python
+- [x] Python
 
 IMBD Dataset - Exploratory Data Analysis Project
 
