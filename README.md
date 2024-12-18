@@ -2,10 +2,10 @@
 
 - [x] Excel
 
-Sales Data Sample - Sales Performance Dashboard
+Sales Data Sample - Sales Performance Dashboard.  
 ![Dashboard](Images/Sales.png)
 
 - [x] Python
 
-IMBD Dataset - Exploratory Data Analysis Project.
+IMBD Dataset - Exploratory Data Analysis Project.  
 Read the complete Project Analysis [Here](imdb.ipynb).
