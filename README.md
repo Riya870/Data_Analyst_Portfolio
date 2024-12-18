@@ -1,6 +1,6 @@
 # Data_Analyst_Portfolio
 
-[x]Excel
+[X] Excel
 
 
 Sales Data Sample - Sales Performance Dashboard
