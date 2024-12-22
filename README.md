@@ -11,7 +11,7 @@ IMBD Dataset - Exploratory Data Analysis Project.
 Read the complete Project Analysis [Here](imdb.ipynb).
 
 Netflix Dataset - Exploratory Data Analysis Project  
-Read the complete Project Analysis [Here](Netfliix.ipynb)
+Read the complete Project Analysis [Here](Netflix.ipynb)
 
 - [x] SQL
 
