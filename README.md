@@ -10,8 +10,8 @@ Sales Data Sample - Sales Performance Dashboard.
 IMBD Dataset - Exploratory Data Analysis Project.  
 Read the complete Project Analysis [Here](imdb.ipynb).
 
-Nrtflix Dataset - Exploratory Data Analysis Project  
-Read the complete Project Analysis [Here](netfliix.ipynb)
+Netflix Dataset - Exploratory Data Analysis Project  
+Read the complete Project Analysis [Here](Netfliix.ipynb)
 
 - [x] SQL
 
