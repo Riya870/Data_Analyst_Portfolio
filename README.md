@@ -18,4 +18,6 @@ Read the complete Project Analysis [Here](Netflix.ipynb)
 GlobalSuperStore Dataset - Data Cleaning and Exploration  
 Check the SQL script provided [Here](globalSuperStore.sql).
 
+Bank loan Dataset(csv file) [Here](financial_loan.csv).  
+Read the Complete Project [Here](Bank_Loan.sql)  
 
