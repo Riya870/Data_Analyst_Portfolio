@@ -30,7 +30,9 @@ Check the complete Projects [Here](UPI%20Transactions.pbix)
 ![Dashboard](Images/upi4.png)  
 ![Dashboard](Images/upi5.png)  
 
-
+Sales Dashboard - This project aims to visualize sales data effectively to identify trends, analyze revenue distribution, and gain insights into product performance.  
+Sales Dashboard(csv) [Here](Orders.csv) or [Here](Details.csv)  
+Check the complete Project [Here](SalesDashboard.pbix)  
 
 
 
